@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import { UIRouter, UIView} from '@uirouter/react';
 import router from './stateManagement/router';
 import './App.css';

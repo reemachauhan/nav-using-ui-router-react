@@ -9,13 +9,14 @@ const landingPage  = {
     };
 
 const homePage  = {
-        //parent: 'landing',
+        parent: 'landing',
         name: 'home',
         url: '/Home',
         component: Home
     };
 
 const contactPage ={
+        parent: 'landing',
         name: 'contact',
         url: '/Contact/:contactId',
         component: Contacts,

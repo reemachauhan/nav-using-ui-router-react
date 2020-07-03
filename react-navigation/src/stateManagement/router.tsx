@@ -1,4 +1,3 @@
-import React from 'react';
 import {UIRouterReact, servicesPlugin, hashLocationPlugin} from '@uirouter/react';
 import actions from './States';
 
