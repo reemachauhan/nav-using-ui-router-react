@@ -9,7 +9,6 @@ import { UIView } from '@uirouter/react';
 export const Landing = () =>{
     return (
         <div>
-            Welcome to landing page!!!
             <NavigationBar />
             <UIView />
         </div>
